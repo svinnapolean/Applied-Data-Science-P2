@@ -1,4 +1,4 @@
-# Applied Data Science with Python – Final Project
+# Applied Data Science with Python
 ## __Marketing Campaigns Analysis__
 
 # Project Overview: 
@@ -1925,3 +1925,6 @@ df.to_csv('cleaned_marketing_data.csv', index=False)
 ```python
 
 ```
+### 📬 Contact
+
+For questions or collaboration, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/vincent-napolean-susai/) or open an issue.
