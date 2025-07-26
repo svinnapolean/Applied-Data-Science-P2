@@ -1150,25 +1150,25 @@ for col in numeric_cols:
 
 
     
-![png](output_33_0.png)
+![png](images/output_33_0.png)
     
 
 
 
     
-![png](output_33_1.png)
+![png](images/output_33_1.png)
     
 
 
 
     
-![png](output_33_2.png)
+![png](images/output_33_2.png)
     
 
 
 
     
-![png](output_33_3.png)
+![png](images/output_33_3.png)
     
 
 
@@ -1194,25 +1194,25 @@ for col in numeric_cols:
 
 
     
-![png](output_34_0.png)
+![png](images/output_34_0.png)
     
 
 
 
     
-![png](output_34_1.png)
+![png](images/output_34_1.png)
     
 
 
 
     
-![png](output_34_2.png)
+![png](images/output_34_2.png)
     
 
 
 
     
-![png](output_34_3.png)
+![png](images/output_34_3.png)
     
 
 
@@ -1369,7 +1369,7 @@ plt.show()
 
 
     
-![png](output_41_0.png)
+![png](images/output_41_0.png)
     
 
 
@@ -1417,7 +1417,7 @@ else:
 
 
     
-![png](output_43_0.png)
+![png](images/output_43_0.png)
     
 
 
@@ -1469,7 +1469,7 @@ else:
 
 
     
-![png](output_45_0.png)
+![png](images/output_45_0.png)
     
 
 
@@ -1520,7 +1520,7 @@ else:
 
 
     
-![png](output_47_0.png)
+![png](images/output_47_0.png)
     
 
 
@@ -1532,7 +1532,7 @@ else:
 
 
     
-![png](output_47_2.png)
+![png](images/output_47_2.png)
     
 
 
@@ -1593,7 +1593,7 @@ else:
 
 
     
-![png](output_50_0.png)
+![png](images/output_50_0.png)
     
 
 
@@ -1613,7 +1613,7 @@ plt.show()
 
 
     
-![png](output_51_0.png)
+![png](images/output_51_0.png)
     
 
 
@@ -1677,7 +1677,7 @@ plt.show()
 
 
     
-![png](output_55_0.png)
+![png](images/output_55_0.png)
     
 
 
@@ -1722,7 +1722,7 @@ else:
 
 
     
-![png](output_57_0.png)
+![png](images/output_57_0.png)
     
 
 
@@ -1734,7 +1734,7 @@ else:
 
 
     
-![png](output_57_2.png)
+![png](images/output_57_2.png)
     
 
 
@@ -1810,7 +1810,7 @@ plt.show()
 
 
     
-![png](output_61_1.png)
+![png](images/output_61_1.png)
     
 
 
@@ -1854,7 +1854,7 @@ plt.show()
 
 
     
-![png](output_63_1.png)
+![png](images/output_63_1.png)
     
 
 
